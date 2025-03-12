@@ -3,7 +3,7 @@ Emoji Detection with traditional machine learning algorithms
 
 # Emoji Classification with SVM
 
-This repository contains a computer vision project for COMP4423 (Semester 2, 2023/24) that tackles the challenge of classifying emojis using traditional machine learning techniques.
+This repository contains my computer vision project for COMP4423 (Semester 2, 2023/24) that tackles the challenge of classifying emojis using traditional machine learning techniques.
 
 ## Project Overview
 
