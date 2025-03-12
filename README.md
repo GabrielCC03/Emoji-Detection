@@ -39,4 +39,4 @@ Link: https://emojikitchen.dev
 
 ## Results & Discussion
 - **Emoji Classification:** Achieved an accuracy of 60.42%.
-- **Future Work:** Suggests expanding the dataset with colored images and refining feature extraction techniques to reduce class overlap.
+- **Future Work:** Expand the dataset with colored images and refining feature extraction techniques to reduce class overlap.
