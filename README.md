@@ -39,5 +39,4 @@ Emojis, though simple in appearance, are notoriously difficult to classify due t
 
 ## Results & Discussion
 - **Emoji Classification:** Achieved an accuracy of 60.42%.
-- **Human Face Emotions:** The model scored 0% accuracy, underlining the domain-specific challenges between emojis and human expressions.
 - **Future Work:** Suggests expanding the dataset with colored images and refining feature extraction techniques to reduce class overlap.
