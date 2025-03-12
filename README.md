@@ -19,6 +19,9 @@ Emojis, though simple in appearance, are notoriously difficult to classify due t
 - **Composition:** 149 training images and 48 testing images across 24 classes.
 - **Challenges:** Overlapping features between classes and limited data per class, resulting in a low baseline chance of random correct classification.
 
+![TSNE](https://github.com/user-attachments/assets/8dd34cdb-a75a-4222-9835-c641d72b8bca)
+
+
 ## Methods
 
 - **Preprocessing:** Converting Unicode emojis to grayscale images.
