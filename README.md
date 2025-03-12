@@ -27,13 +27,21 @@ Link: https://emojikitchen.dev
 - **Preprocessing:** Converting Unicode emojis to grayscale images.
 - **Feature Extraction Techniques:**
   - *Sobel Filter:* For edge detection.
- ![Sobel](https://github.com/user-attachments/assets/c85d986d-f17d-4f53-86d8-a7359383acc8)
+  
+![Sobel](https://github.com/user-attachments/assets/c85d986d-f17d-4f53-86d8-a7359383acc8)
+
   - *Laplacian Filter:* To highlight sharp features.
- ![Laplacian](https://github.com/user-attachments/assets/aee91ee9-89ae-43ec-aaa8-b5359d42627a)
+    
+![Laplacian](https://github.com/user-attachments/assets/aee91ee9-89ae-43ec-aaa8-b5359d42627a)
+
   - *Circular LBP:* For capturing local texture details.
+    
 ![CircleLBP](https://github.com/user-attachments/assets/a4b0612a-82ab-4ede-a2c3-6eeca71a2263)
+
   - *HOG:* For local shape patterns.
+  
 ![Hog](https://github.com/user-attachments/assets/69eb6e89-bd33-4b5b-8d95-1aab3a822483)
+
 - **Model:** A Support Vector Classifier was chosen due to its strength in handling high-dimensional, non-linear data.
 - **Training & Optimization:** Employed grid search with cross-validation to fine-tune hyperparameters.
 
